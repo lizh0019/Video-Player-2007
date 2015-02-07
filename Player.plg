@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Player - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\lzm\LOCALS~1\Temp\RSP96.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/Player.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\2007year\student\zhengyun\สำฦต\Player\Player.cpp"
+"D:\2007year\student\zhengyun\สำฦต\Player\PlayerDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\lzm\LOCALS~1\Temp\RSP96.tmp" 
+Creating command line "link.exe Strmiids.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Player.pdb" /debug /machine:I386 /out:"Debug/Player.exe" /pdbtype:sept  ".\Debug\Player.obj" ".\Debug\PlayerDlg.obj" ".\Debug\StdAfx.obj" ".\Debug\Player.res" "
+<h3>Output Window</h3>
+Compiling...
+Player.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+PlayerDlg.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/Player.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\Player.sbr" ".\Debug\PlayerDlg.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Player.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
